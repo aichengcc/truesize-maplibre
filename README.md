@@ -13,6 +13,9 @@
   - 中心纬度
   - Mercator 投影缩放比例因子
   - 当前旋转角度
+## 页面预览
+
+![TrueSize MapLibre 截图](truesize.jpg)
 
 ## 技术实现思路
 
