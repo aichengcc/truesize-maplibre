@@ -1,6 +1,6 @@
 # TrueSize · MapLibre
 
-一个基于 [MapLibre GL JS](https://maplibre.org/) 的交互式地图 Demo。
+一个基于MapLibre GL JS的交互式地图探索墨卡托地图投影下真实的国家地区形状大小。
 
 ## 功能特性
 
@@ -72,6 +72,4 @@ http://localhost:8000/index.html?file=Greenland.json
 ```
 
 ## 致谢
-
-- [MapLibre GL JS](https://maplibre.org/)
 - [TrueSize.world](https://truesize.world/) 提供灵感
